@@ -1,5 +1,6 @@
 .DS_Store
 secrets.txt
+pki.txt
 
 # use "#" to comment out
 # use "*" such as *.file to include all files. 
